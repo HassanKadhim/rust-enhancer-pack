@@ -148,4 +148,4 @@ tool completely — there is no uninstaller and no registry entry.
 
 ---
 
-*rust-enhancer-pack · Updated 2026-11-05 · Shared under the MIT License*
+*rust-enhancer-pack · Updated 2026-11-06 · Shared under the MIT License*
